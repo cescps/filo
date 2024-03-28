@@ -1,4 +1,4 @@
-body.dark-mode {
+ body.dark-mode {
       background-color: black;
       color: white;
     }
@@ -15,6 +15,7 @@ body.dark-mode {
     .underline-link {
       text-decoration: underline;
     }
+
   .switch {
       position: relative;
       display: inline-block;
